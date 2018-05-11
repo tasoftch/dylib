@@ -1,0 +1,14 @@
+{
+    "name": "tasoft/dylib",
+    "description": "dynamic library is a tool that allows you to include libraries and wrapped bundles in your project.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+	    "psr-4": {
+		    "TASoft\\DyLib\\": "src/"
+	    }
+    },
+    "require" : {
+	    "tasoft/config" : "dev-master"
+    }
+}
