@@ -9,6 +9,6 @@
 	    }
     },
     "require" : {
-	    "tasoft/config" : ">=1.0"
+	    "tasoft/config" : "dev-master"
     }
 }
